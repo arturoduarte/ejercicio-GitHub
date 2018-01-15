@@ -2,4 +2,4 @@ hola
 
 soy un clone
 
-preparando un pull
+preparando un pul
